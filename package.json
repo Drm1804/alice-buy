@@ -1,0 +1,27 @@
+{
+  "name": "yandex-cloud-function-boilerplate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drm1804/node-yandex-cloud-function-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drm1804/node-yandex-cloud-function-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Drm1804/node-yandex-cloud-function-boilerplate#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.0.2"
+  }
+}
